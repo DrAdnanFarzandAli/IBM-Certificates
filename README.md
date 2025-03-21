@@ -1,4 +1,7 @@
-
+[IBM Professional Certificates](<p align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/IBM_logo_2023.svg/1280px-IBM_logo_2023.svg.png" alt="IBM Logo" width="200"/>
+</p>)
+ 
 IBM offers several professional certificates on Coursera, designed to help learners gain in-demand skills in various fields such as data science, AI, cloud computing, and more. These certificates are often well-regarded by employers and can provide learners with the technical knowledge and practical experience needed to start or advance their careers in these areas.
 
 Here’s a list of the IBM Professional Certificates available on Coursera:
